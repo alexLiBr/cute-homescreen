@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: rgb(47, 47, 47);
+}
+h1{
+    text-align: center;
+}
+
+
+.video{
+    border: 5px solid rgb(62, 22, 173);
+    background-color: black;
+    border-style: none;
+    border-radius: 10px;
+
+
+    display: block;
+    margin: 80px auto;
+}
+
