@@ -1,2 +1,2 @@
 # cute-homescreen
-In this repo I'll upload my personal home-screen for my web browser. It's a very simple project. But I love it. It's also one of the first ones I made.
+I'm uploading my project as a way of saving it, and also for anyone that want to modify it or just grap it and use it for themselves.
